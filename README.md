@@ -1,4 +1,4 @@
-# Vitis Accelerated Libraries
+# Vitis Aoibheann Libraries
 [Vitis&trade; Unified Software Platform](https://www.xilinx.com/products/design-tools/vitis/vitis-platform.html) includes an extensive set of open-source, performance-optimized libraries that offer out-of-the-box acceleration with minimal to zero-code changes to your existing applications.
 
 [Comprehensive documentation](https://xilinx.github.io/Vitis_Libraries/)
