@@ -5,9 +5,7 @@ This is a sample page
 
 .. raw:: html
 
-   <h3>Mapping an Image 
-  
-   <body> 
+   <h3>Mapping an Image </h3>
   
    <p>Click on the different continents of the map to know about them.</p> 
   
