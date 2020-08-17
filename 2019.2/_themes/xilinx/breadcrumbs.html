@@ -36,7 +36,7 @@
 <li>
         {% if hasdoc(pagename) %}
           {% if show_source and has_source and sourcename  %}
-		  <a href="{{ source_url_prefix }}/issues/new?labels=documentation&title=[Documentation+Issue]+{{ pagename }}{{ suffix }}">&nbsp;<img src="{{ pathto('_static/feedback.png', true)|e }}" alt="Send Feedback"></a>
+		  <a href="{{ show_on_github_url }}/issues/new?labels=documentation&title=[Documentation+Issue]+{{ pagename }}{{ suffix }}">&nbsp;<img src="{{ pathto('_static/feedback.png', true)|e }}" alt="Send Feedback"></a>
 		  {{ source_url_prefix }}
 <!--<a href="{{ pathto('issues/new?labels=documentation&title=[Documentation+Issue]+', true)|e }}{{ pagename }}{{ suffix }}">&nbsp;<img src="{{ pathto('_static/feedback.png', true)|e }}" alt="Send Feedback"></a> 
 -->
