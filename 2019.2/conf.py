@@ -55,7 +55,8 @@ extensions = [
 	'rst2pdf.pdfbuilder',
     # Auto-generate section labels.
     'sphinx.ext.autosectionlabel',
-    'sphinx_markdown_tables'	
+    'sphinx_markdown_tables',
+    'edit_on_github'	
 ]
 
 pdf_documents = [('index', u'rst2pdf', u'Sample rst2pdf doc', u'Your Name'),]
